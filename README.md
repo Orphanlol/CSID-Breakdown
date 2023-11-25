@@ -12,8 +12,8 @@ CSID, or Component Status ID is the unique identifier for i-Ready lessons.
 
 - **Lesson Part:**
   - *Codes:*
-    - `10` indicates an instructional segment.
-    - `20` signifies a quiz or assessment.
+    - `10` instruction.
+    - `20` quiz.
   - *Example:* In the given CSID, `10` suggests that this is an instructional part of the lesson.
 
 - **Activity ID:** 006a09c1-ef55-488c-8634-7543bec2b644
